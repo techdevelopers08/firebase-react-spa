@@ -1,0 +1,7 @@
+08:50:39.871 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+08:50:39.957 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:8081
+08:50:53.875 [NamespaceSystem-akka.actor.default-dispatcher-6] INFO com.firebase.core.namespace.NamespaceActor - testnoti-d3aad successfully activated FBKV (SurveyIdle(0)) wait: 88ms, init: 0ms
+08:52:42.007 [Thread-0] INFO com.firebase.server.forge.App$ - Attempting graceful shutdown.
+08:52:42.057 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO com.firebase.core.namespace.Terminator$Terminator - 1 actors left to terminate: testnoti-d3aad
+08:52:42.064 [NamespaceSystem-akka.actor.default-dispatcher-10] INFO com.firebase.core.namespace.NamespaceActor - stopped namespace actor for testnoti-d3aad
+08:52:42.068 [Thread-0] INFO com.firebase.server.forge.App$ - Graceful shutdown complete.
