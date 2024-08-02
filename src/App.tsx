@@ -1,12 +1,12 @@
-import React from 'react';
-import Notification from './components/Notification';
+  import React from 'react';
+  import Notification from './components/Notification';
 
-function App() {
-  return (
-    <div className="App">
-      <Notification />
-    </div>
-  );
-}
+  function App() {
+    return (
+      <div className="App">
+        <Notification />
+      </div>
+    );
+  }
 
-export default App;
+  export default App;
